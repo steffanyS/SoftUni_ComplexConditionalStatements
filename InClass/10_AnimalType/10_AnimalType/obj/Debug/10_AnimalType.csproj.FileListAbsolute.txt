@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\bin\Debug\10_AnimalType.exe.config
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\bin\Debug\10_AnimalType.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\bin\Debug\10_AnimalType.pdb
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\obj\Debug\10_AnimalType.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\obj\Debug\10_AnimalType.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\10_AnimalType\10_AnimalType\obj\Debug\10_AnimalType.pdb

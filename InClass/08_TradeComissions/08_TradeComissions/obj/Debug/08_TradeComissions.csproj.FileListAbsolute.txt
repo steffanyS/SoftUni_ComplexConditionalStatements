@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\bin\Debug\08_TradeComissions.exe.config
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\bin\Debug\08_TradeComissions.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\bin\Debug\08_TradeComissions.pdb
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\obj\Debug\08_TradeComissions.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\obj\Debug\08_TradeComissions.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\08_TradeComissions\08_TradeComissions\obj\Debug\08_TradeComissions.pdb

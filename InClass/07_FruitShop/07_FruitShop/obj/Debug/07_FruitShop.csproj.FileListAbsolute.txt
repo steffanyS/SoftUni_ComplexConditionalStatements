@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\bin\Debug\07_FruitShop.exe.config
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\obj\Debug\07_FruitShop.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\bin\Debug\07_FruitShop.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\bin\Debug\07_FruitShop.pdb
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\obj\Debug\07_FruitShop.exe
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\07_FruitShop\07_FruitShop\obj\Debug\07_FruitShop.pdb

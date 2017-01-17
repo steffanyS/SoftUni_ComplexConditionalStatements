@@ -1,0 +1,1 @@
+E:\SoftUni\ProgrammingBasics\04.Complex Conditional Statements\InClass\03_PointInRectangle\03_PointInRectangle\bin\Debug\03_PointInRectangle.exe.config
